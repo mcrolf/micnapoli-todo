@@ -1,0 +1,76 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "description": "Milk, bread, eggs, and fruit",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "title": "Finish project report",
+      "description": "Complete the final section and send it to the manager",
+      "status": "pending"
+    },
+    {
+      "id": "3",
+      "title": "Call the plumber",
+      "description": "Fix the leaking kitchen sink",
+      "status": "complete"
+    },
+    {
+      "id": "4",
+      "title": "Workout",
+      "description": "30-minute cardio session",
+      "status": "pending"
+    },
+    {
+      "id": "5",
+      "title": "Email client",
+      "description": "Send project updates and confirm meeting",
+      "status": "complete"
+    },
+    {
+      "id": "6",
+      "title": "Read a book",
+      "description": "Finish reading 'Atomic Habits'",
+      "status": "pending"
+    },
+    {
+      "id": "7",
+      "title": "Organize workspace",
+      "description": "Tidy up desk and declutter",
+      "status": "pending"
+    },
+    {
+      "id": "8",
+      "title": "Pay electricity bill",
+      "description": "Due by the end of the week",
+      "status": "complete"
+    },
+    {
+      "id": "9",
+      "title": "Schedule dentist appointment",
+      "description": "Routine check-up for next month",
+      "status": "pending"
+    },
+    {
+      "id": "10",
+      "title": "Update resume",
+      "description": "Add recent projects and certifications",
+      "status": "pending"
+    },
+    {
+      "id": "11",
+      "title": "Plan weekend trip",
+      "description": "Decide on destination and book hotel",
+      "status": "pending"
+    },
+    {
+      "id": "12",
+      "title": "Water the plants",
+      "description": "Indoor and balcony plants need watering",
+      "status": "complete"
+    }
+  ]
+}
